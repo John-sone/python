@@ -1,0 +1,14 @@
+{
+    "name": "python书籍",
+    "origin_price": 66,
+    "pub_date": "2019-10-21 19:22:00",
+    "store": ["京东", "淘宝"],
+    "author": ["张三", "李四", "jone"],
+    "is_valid": true,
+    "is_sale": false,
+    "meta": {
+        "isbn": "abc-343",
+        "pages": 300
+    },
+    "desc": null
+}
